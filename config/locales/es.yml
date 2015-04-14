@@ -1,23 +1,23 @@
-en:
+es:
   layouts:
     application:
-      home_link: "Home"
-      about_link: "About"
-      static_blog_link: "Static Blog"
-      dynamic_blog_link: "Dynamic Blog"
-      language_options: "View this page in:"
+      home_link: "Página Principal"
+      about_link: "Sobre"
+      static_blog_link: "Blog Estático"
+      dynamic_blog_link: "Blog Dinámico"
+      language_options: "Vea esta página en:"
   static_pages:
     home:
-      home_intro: "The benefits of eating right"
-      home_intro_2: "This is a blog dedicated to healthy eating"
-      home_intro_3: "Click on something on the page"
+      home_intro: "Los beneficios de comer bien"
+      home_intro_2: "Es blog se dedica a comer saludable"
+      home_intro_3: "Haga clic en algo en la página"
     about:
-      about_page_header: "This is the about page"
-      about_page_desc: "It tells what the app does, who the people behind it are, why it's awesome, etc." 
-      about_page_details: "Now for some details typical of an 'About Us' page"
-      about_contact: "Contact Us"
-      about_gallery: "Gallery"
-      about_sign_up: "Sign Up"
+      about_page_header: "Esta es la página \"Sobre\""
+      about_page_desc: "Dice lo que hace el app, quiénes son las personas detrás de él, por qué es chido, etc."
+      about_page_details: "Ahora, algunos detalles típicos de una página 'Sobre'"
+      about_contact: "Contáctenos"
+      about_gallery: "Galería"
+      about_sign_up: "Apúntese"
     blog:
       blog_header: "The Hypocritical Diet of the Hipster"
       blog_header_2: "A battle of bacon vs. Brussels sprouts."
@@ -27,4 +27,5 @@ en:
       blog_article_html: "<p>Hipsters, once a group that only listened to underground music and derided the mainstream, have become a force in the food world – urging others to eat healthy, eat local and treat food with respect.</p> <p>While many hipsters love to eat healthy, and pride themselves on their diet of organic foods, kombucha and kale, they also love to indulge in calorie-heavy craft beer and bacon. And when it comes to their health, nutrition experts say these two lifestyles definitely don’t offset.</p> <p>Zachary Tucker, a 27-year-old bartender from Brooklyn, New York, is a self-described hipster who does yoga, shops regularly at the Union Square farmers market and bikes to work. He also brews his own beer and cures his own bacon. “I love to eat,” he says. “I exercise regularly and eat tons of fruits and vegetables, so if I want to have a few pieces of bacon or drink some local beer regularly, I don't think it's going to kill me.”</p> <h3>The Healthy Hipster Habits</h3> <p>Hipsters tend to be conscious about what they put in their bodies and often eat a primarily plant-based diet, which is linked to a reduction in risk for heart disease, diabetes and other health problems, says Kylene Bogden, a registered dietitian with Cleveland Clinic. “The nice thing about this population is that they eat organic and local,” she says. “Their diet usually doesn’t contain many preservatives or processed foods, which is a great way to eat.”</p> <p>The plant-based diet alone can help counteract other unhealthy habits – like beer consumption, says David Leal​, a nutritionist with the Texas A&amp;M Health Science Center​. “Fruits and vegetables are wonderful for us,” he says. “A lot of people struggle with getting these into our diet regularly. Eating several helpings per day, even if they’re not organic, can help us balance out the other poorer aspects of our diet.”</p> <p>Plus, hipsters are physically active, often eschewing a car for a bike, Bogden says. “People don’t realize that they walk and bike everywhere,” she says. “There’s a greater calorie deficit when you’re that active, which is why they can go out to eat more often and not gain weight.”</p>" 
   posts: 
     index:
-      index_new_post: "New post"
+      index_new_post: "Nueva Entrada"
+
