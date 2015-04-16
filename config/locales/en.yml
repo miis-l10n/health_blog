@@ -38,5 +38,9 @@ en:
   hello: "Hello world"
   home_header: "The benefits of eating right"
   home_header_1: "This is a blog dedicated to healthy eating"
+<<<<<<< HEAD
+  home_header_2: "Click on something on the page"
+>>>>>>> 1eb73eb84a5096a3f6b8f10b21c2de9b2e5a7626
+=======
   home_header_2: "Click on something on the page"
 >>>>>>> 1eb73eb84a5096a3f6b8f10b21c2de9b2e5a7626
