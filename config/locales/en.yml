@@ -1,4 +1,5 @@
 en:
+<<<<<<< HEAD
   layouts:
     application:
       home_link: "Home"
@@ -33,3 +34,9 @@ en:
   posts:
     index:
       index_newpost: "New Post"
+=======
+  hello: "Hello world"
+  home_header: "The benefits of eating right"
+  home_header_1: "This is a blog dedicated to healthy eating"
+  home_header_2: "Click on something on the page"
+>>>>>>> 1eb73eb84a5096a3f6b8f10b21c2de9b2e5a7626
