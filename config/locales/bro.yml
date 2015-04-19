@@ -1,6 +1,5 @@
 bro:
-<<<<<<< HEAD
-<<<<<<< HEAD
+
   layouts:
     application:
       home_link: "Home"
@@ -10,16 +9,3 @@ bro:
       home_intro: "Do you even lift, bro?"
       home_intro_2: "You should seriously lift. And then play some ultimate frisbee"
       home_intro_3: "Click on something on the page"
-=======
-=======
->>>>>>> 1eb73eb84a5096a3f6b8f10b21c2de9b2e5a7626
-  hello: "Hello world"
-  home_header: "Do you even lift, bro?"
-  home_header_1: "You should seriously lift, bro"
-  home_header_2: "Click on something on the page"
-<<<<<<< HEAD
-  
->>>>>>> 1eb73eb84a5096a3f6b8f10b21c2de9b2e5a7626
-=======
-  
->>>>>>> 1eb73eb84a5096a3f6b8f10b21c2de9b2e5a7626

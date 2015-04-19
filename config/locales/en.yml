@@ -1,5 +1,4 @@
 en:
-<<<<<<< HEAD
   layouts:
     application:
       home_link: "Home"
@@ -18,6 +17,7 @@ en:
       about_contact: "Contact Us"
       about_gallery: "Gallery"
       about_signup: "Sign Up"
+      about_page_desc2: "Now for some details typical of an 'About Us' page"
     blog:
       blog_content1: "Hipsters, once a group that only listened to underground music and derided the mainstream, have become a force in the food world – urging others to eat healthy, eat local and treat food with respect."
       blog_content2: "While many hipsters love to eat healthy, and pride themselves on their diet of organic foods, kombucha and kale, they also love to indulge in calorie-heavy craft beer and bacon. And when it comes to their health, nutrition experts say these two lifestyles definitely don’t offset."
@@ -34,13 +34,3 @@ en:
   posts:
     index:
       index_newpost: "New Post"
-=======
-  hello: "Hello world"
-  home_header: "The benefits of eating right"
-  home_header_1: "This is a blog dedicated to healthy eating"
-<<<<<<< HEAD
-  home_header_2: "Click on something on the page"
->>>>>>> 1eb73eb84a5096a3f6b8f10b21c2de9b2e5a7626
-=======
-  home_header_2: "Click on something on the page"
->>>>>>> 1eb73eb84a5096a3f6b8f10b21c2de9b2e5a7626
