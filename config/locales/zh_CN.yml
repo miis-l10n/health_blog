@@ -1,0 +1,25 @@
+zh_CN:
+  layouts:
+    application:
+      home_link: "主页"
+      about_link: "关于"
+      static_blog_link: "静态博客"
+      dynamic_blog_link: "动态博客"
+      language_options: "查看此页面"
+  static_pages:
+    home:
+      home_intro: "健康饮食的好处"
+      home_intro_2: "这篇博客是有关健康饮食的"
+      home_intro_3: "点击该页的任何一处"
+    about:
+      about_page_header: "该页是关于页"
+      about_page_desc: "介绍了这个应用程序是做什么的、开发人员是谁、以及该应用程序的优点等等。"
+      about_contact: "联系我们"
+      about_gallery: "画展"
+      about_signup: "注册"
+      about_page_desc2: "下面具体介绍“关于”页的典型信息"
+    blog:
+      blog_time: "2014年10月20日 下午12：04 EDT"
+  posts:
+    index:
+      index_newpost: "发帖"
