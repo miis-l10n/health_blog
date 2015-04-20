@@ -1,26 +1,72 @@
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
 body {
 	font-family: helvetica;
-	color: #777;
+    color: #777;
+}
+
+.wrapper {
+   min-height:100%;
+   position:relative;
 }
 
 .container {
 	max-width: 800px;
 	margin: auto;
 	overflow: hidden;
+	padding: 10px;
+	padding-bottom: 40px;   /* Height of the footer */
+}
+
+footer {
+   position:absolute;
+   bottom:0;
+   left: 10px;
+   width:100%;
+   height:40px;   /* Height of the footer */
 }
 
 .floating {
 	float: left;
+	width: 500px;
 }
 
-h1 {
+h1, {
 	color: #666;
 }
 
-li {
-	list-style: none;
-	display: inline-block;
-	margin: 0 5px 0 5px;
+h2 a {
+	color: #666;
+}
+
+.title {
+	margin-bottom: 10px;
+}
+
+.sub-title {
+	margin-left: 20px;
+	margin-top: 0;
+}
+
+figcaption {
+	margin-left: 20px;
+	font-size: 13px;
+}
+
+.credits {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: 1px solid #E7E7E7;
+	border-bottom: 1px solid #E7E7E7;
+}
+
+.float-right {
+	float: right;
 }
 
 aside {
@@ -34,4 +80,55 @@ aside img {
 a {
 	text-decoration: none;
 	color: royalblue;
+}
+
+label {
+	width: 60px;
+	display: inline-block;
+}
+
+input {
+	width: 200px;
+	border-radius: 3px;
+	border-style: none;
+	border: 1px solid #999;
+}
+
+textarea {
+	min-width: 350px;
+	min-height: 200px;
+}
+
+input[type="submit"] {
+	width: 90px;
+	/*border-style: none;
+	background-color: #009900;
+	border-radius: 5px;*/
+}
+
+figure {
+	padding: 0;
+	margin: 0;
+}
+
+article {
+	line-height: 1.2em;
+}
+
+footer a {
+	color: #777;
+}
+
+footer a:hover {
+	color: royalblue;
+}
+
+footer p {
+	display: inline-block;
+}
+
+footer ul {
+	display: inline-block;
+	margin-left: 0;
+	padding-left: 0;
 }
