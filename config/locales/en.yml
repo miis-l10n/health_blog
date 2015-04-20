@@ -9,5 +9,28 @@ en:
   static_pages:
     home:
       home_intro: "The benefits of eating right"
-      home_intro_2: "This is a blog dedicated to healthy eating"
+      home_intro_2: "This is a \"blog\" dedicated to healthy eating"
       home_intro_3: "Click on something on the page"
+    about:
+      about_page_header: "This is the about page"
+      about_page_desc: "It tells what the app does, who the people behind it are, why it's awesome, etc."
+      about_page_details: "Now for some details typical of an 'About Us' page"
+      about_contact: "Contact Us"
+      about_gallery: "Gallery"
+      about_signup: "Sign Up"
+    blog:
+      blog_title: "The Hypocritical Diet of the Hipster"
+      blog_subtitle: "A battle of bacon vs. Brussels sprouts." 
+      blog_caption: "Hipsters are known to eat local and organic, but they also tend to indulge in bacon and craft beer."
+      blog_author: "By Amir Khan"
+      blog_date: "Oct. 20, 2014 | 12:04 p.m. EDT"
+      blog_p1: "Hipsters, once a group that only listened to underground music and derided the mainstream, have become a force in the food world – urging others to eat healthy, eat local and treat food with respect."
+      blog_p2: "While many hipsters love to eat healthy, and pride themselves on their diet of organic foods, kombucha and kale, they also love to indulge in calorie-heavy craft beer and bacon. And when it comes to their health, nutrition experts say these two lifestyles definitely don’t offset."
+      blog_p3: "Zachary Tucker, a 27-year-old bartender from Brooklyn, New York, is a self-described hipster who does yoga, shops regularly at the Union Square farmers market and bikes to work. He also brews his own beer and cures his own bacon. \"I love to eat,\" he says. \"I exercise regularly and eat tons of fruits and vegetables, so if I want to have a few pieces of bacon or drink some local beer regularly, I don't think it's going to kill me.\""
+      blog_h3: "The Healthy Hipster Habits"
+      blog_p4: "Hipsters tend to be conscious about what they put in their bodies and often eat a primarily plant-based diet, which is linked to a reduction in risk for heart disease, diabetes and other health problems, says Kylene Bogden, a registered dietitian with Cleveland Clinic. \"The nice thing about this population is that they eat organic and local,\" she says. \"Their diet usually doesn’t contain many preservatives or processed foods, which is a great way to eat.\""
+      blog_p5: "The plant-based diet alone can help counteract other unhealthy habits – like beer consumption, says David Leal​, a nutritionist with the Texas A&amp;M Health Science Center​. \"Fruits and vegetables are wonderful for us,\" he says. \"A lot of people struggle with getting these into our diet regularly. Eating several helpings per day, even if they’re not organic, can help us balance out the other poorer aspects of our diet.\""
+      blog_p6: "Plus, hipsters are physically active, often eschewing a car for a bike, Bogden says. \"People don’t realize that they walk and bike everywhere,\" she says. \"There’s a greater calorie deficit when you’re that active, which is why they can go out to eat more often and not gain weight.\""
+  posts:
+    index:
+      posts_new: "New post"

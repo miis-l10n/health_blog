@@ -9,10 +9,10 @@
 
   <nav>
     <ul>
-      <li><%= link_to t('.home_link'), root_path %></li>
-      <li><%= link_to t('.about_link'), about_path %></li>
-      <li><%= link_to t('.static_blog_link'), static_blog_path %></li>
-      <li><%= link_to t('.dynamic_blog_link'), posts_path %></li>
+      <li><%= link_to t('layouts.application.home_link'), root_path %></li>
+      <li><%= link_to t('layouts.application.about_link'), about_path %></li>
+      <li><%= link_to t('layouts.application.static_blog_link'), static_blog_path %></li>
+      <li><%= link_to t('layouts.application.dynamic_blog_link'), posts_path %></li>
     </ul>
   </nav>
 
@@ -21,10 +21,11 @@
       <%= yield %>
     </div>
     <footer>
-      <p><%= t('.language_options') %></p>
+      <p><%= t('layouts.application.language_options') %></p>
       <ul>
         <li><%= link_to 'English', :locale => :en %></li>
-        <li><%= link_to 'Bro', :locale => :bro %></li>
+        <li><%= link_to 'Pseudo', :locale => :pseudo %></li>
+        <li><%= link_to 'Chinese (Simplified)', :locale => :zh_CN %></li>
         <!-- You add links to veiw the page in new locales here-->
       </ul>
     </footer>
