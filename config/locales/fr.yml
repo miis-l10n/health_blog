@@ -1,0 +1,32 @@
+fr:
+  layouts:
+    application:
+      home_link: "Accueil"
+      about_link: "À propos"
+      static_blog_link: "Blog statique"
+      dynamic_blog_link: "Blog dynamique"
+      language_options: "Voir cette page en:"
+  static_pages:
+    home:
+      home_intro: "Les avantages de manger bien"
+      home_intro_2: "Ce est un blog dédié à l'alimentation saine"
+      home_intro_3: "Cliquez sur quelque chose sur la page"
+    about:
+      about_page_header: "Ceci est la page de propos"
+      about_page_description: "Il raconte ce que l'application fait, qui sont les gens qui sont derrière sont, pourquoi ce est génial, etc."
+      about_contact: "Nous contacter"
+      about_gallery: "Galerie"
+      about_signup: "S'abonner"
+    blog:
+      blog_diet: "Le régime hypocrite de la Hipster"
+      blog_battle: "Une bataille de bacon et Choux de Bruxelles."
+      blog_local: "Hipsters sont connus pour manger local et bio, mais ils ont également tendance à se livrer à du bacon et des bières artisanales."
+      blog_group: "Hipsters, une fois un groupe qui ne écoutait que la musique underground et tourné en dérision le grand public, sont devenus une force dans le monde de la nourriture - exhortez les autres à manger sain, manger local et traiter la nourriture avec respect."
+      blog_love: "Alors que de nombreux hipsters aiment manger sain, et se enorgueillissent de leur alimentation des aliments bio, kombucha et le chou frisé, ils aiment aussi se livrer à calories lourde bière artisanale et le bacon. Et quand il se agit de leur santé, les experts en nutrition disent que ces deux modes de vie font certainement pas offset."
+      blog_zachary: "Zachary Tucker, un barman de 27 ans, originaire de Brooklyn, New York, est un hipster décrit lui-même qui fait du yoga, boutiques régulièrement au marché des agriculteurs et des vélos Union Square à travailler. Il brasse également sa propre bière et guérit son propre bacon. \"Je aime manger,\" dit-il. «Je l'exercice régulièrement et manger des tonnes de fruits et légumes, donc si je veux avoir quelques morceaux de bacon ou de boire de la bière locale régulièrement, je ne pense pas que ça va me tuer.\""
+      blog_habits: "Les Healthy Hipster Habitudes"
+      blog_conscious: "Hipsters ont tendance à être conscients de ce qu'ils mettent dans leur corps et mangent souvent un régime alimentaire principalement à base de plantes, qui est liée à une réduction du risque de maladie cardiaque, de diabète et d'autres problèmes de santé, dit Kylene Bogden, diététiste professionnelle au Cleveland Clinic . \"La bonne chose à propos de cette population est qu'ils mangent bio et locaux,\" dit-elle. \"Leur régime alimentaire ne contient généralement pas beaucoup de conservateurs ou les aliments transformés, ce qui est une excellente façon de manger.\""
+      blog_plant: "Un régime alimentaire à base de plantes seul peut aider à contrer d'autres habitudes malsaines - comme la consommation de bière, dit David Leal, une nutritionniste à la Texas A & amp; M Health Science Center. \"Fruits et légumes sont merveilleux pour nous,\" dit-il. \"Beaucoup de gens luttent avec obtenir ces dans notre alimentation régulièrement. Manger plusieurs portions par jour, même si elles ne sont pas organiques, peut nous aider à équilibrer les autres aspects les plus pauvres de notre alimentation.\""
+      blog_active: "De plus, les hipsters sont physiquement actifs, évitant souvent une voiture pour un vélo, dit Bogden. «Les gens ne se rendent pas compte qu'ils marchent et vélo partout,\" dit-elle. \"Il ya un déficit plus de calories quand vous êtes une gestion active, ce est pourquoi ils peuvent sortir de manger plus souvent et ne pas prendre du poids.\""
+    posts:
+      new_post: "Nouveau poste"
