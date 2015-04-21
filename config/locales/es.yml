@@ -1,0 +1,34 @@
+es:
+  layouts:
+    application:
+      home_link: "Inicio"
+      about_link: "Información"
+      static_blog_link: "Blog Estático"
+      dynamic_blog_link: "Blog Dinámico"
+      language_options: "Ver esta página en:"
+  static_pages:
+    home:
+      home_intro: "Los beneficios de comer bien"
+      home_intro_2: "Este blog está dedicado a comer saludablemente"
+      home_intro_3: "Haga clic en algo en la página"
+    about:
+      about_page_header: "Esta página provee información basica"
+      about_page_desc: "Nos dice que hace la aplicación, quienes son las personas responsables, porque la aplicación es magnífica, etc."
+      about_contact: "contáctanos"
+      about_pic: "Galería"
+      about_signup: "Registrar"
+    blog:
+      paragraph1: "Los Hipsters, en un momento fueron un grupo que solo escuchaban música underground y evadían la vida cotidiana, se han convertido en una fuerza potente en el mundo de la comica – alentando a otros a que coman saludablemente, coman comida local y traten a la comida con respeto."
+      paragraph2: "Mientras muchos hipsters les encanta comer sano, y se enorgullecen de su dieta de alimentos orgánicos, como la kombucha y la col rizada, también les encanta disfrutar de comidas llenas de calorías como la cerveza artesanal y el tocino. En cuando se trata de su salud, los expertos en nutrición dicen que estos dos estilos de vida definitivamente se contrarrestan."
+      paragraph3: "Zachary Tucker, un camarero de 27 años de edad de Brooklyn, Nueva York, es un hipster que describe a sí mismo como alguien que hace yoga, va de tiendas regularmente en el mercado Union Square y monta bicicleta para ir a trabajar. Él también elabora su propia cerveza y cura su propio tocino. \"Me encanta comer\", dice . \"Hago ejercicio regularmente y como toneladas de frutas y verduras, así que si quiero comer unos trozos de tocino o beber un poco de cerveza local con regularidad, no creo que me va a matar.\""
+      paragraph4: "Los hipsters tienden a ser consciente de lo que ponen en sus cuerpos y suelen comer una dieta principalmente a base de plantas, la cual está vinculada con una reducción en el riesgo de enfermedades del corazón, diabetes y otros problemas de salud, dice Kylene Bogden, una dietista registrada con la Clínica Cleveland. \"Lo bueno de esta población es que comen orgánicos y locales\", dice ella. \"Su dieta generalmente no contiene preservantes ni muchos alimentos procesados​​, lo cual es una buena manera de comer.\""
+      paragraph5: "The dieta basada en solo vegetales puede ayudar a contrarrestar otros hábitos poco saludables - como el consumo de cerveza, dice David Leal, un nutricionista con la Texas A&M Health Science Center. \"Las frutas y verduras son una maravilla para nosotros\", dice. \"A mucha gente le cuesta incluir estos alimentos en una dieta regular. Comer varias porciones de frutas y vegetales al día, incluso si no son orgánicos, puede ayudar a equilibrar los otros aspectos más pobres de nuestra dieta\"."
+      header3: "Los Hábitos Saludables de los Hipsters"
+      paragraph6: "A demás, los hipsters son físicamente activos, a menudo dejando de lado un coche por una bicicleta, dice Bogden. \"La gente no se da cuenta que caminan y montan bicicleta a todas partes\", dice ella. \"Hay un mayor déficit de calorías cuando estás tan activo, que es por lo que pueden salir a comer más a menudo y no aumentar de peso.\""
+      header1: "La Dieta Hipócrita de los Hispters"
+      header2: "La batalla entre el tocino y las coles de Bruselas."
+      figcaption: "Los hipsters son conocidos porque comen comida local y orgánica, pero también porque tienden a consumir mucho tocino y cerveza artesanal."
+      author: "Por Amir Khan"
+  posts:
+    index:
+      posts: "Post nuevo"
