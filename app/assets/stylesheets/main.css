@@ -83,7 +83,6 @@ a {
 }
 
 label {
-	width: 60px;
 	display: inline-block;
 }
 
@@ -131,4 +130,13 @@ footer ul {
 	display: inline-block;
 	margin-left: 0;
 	padding-left: 0;
+}
+
+table {
+	border: 1px solid black;
+}
+
+td {
+	border: 1px solid black;
+	vertical-align: top;
 }

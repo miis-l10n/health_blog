@@ -6,6 +6,10 @@ fr:
       static_blog_link: "Blog statique"
       dynamic_blog_link: "Blog dynamique"
       language_options: "Voir cette page en:"
+
+  posts:
+    index:
+      new_post: "Nouveau Poste"
   static_pages:
     home:
       home_intro: "Les avantages de manger bien"
@@ -28,5 +32,4 @@ fr:
       blog_conscious: "Hipsters ont tendance à être conscients de ce qu'ils mettent dans leur corps et mangent souvent un régime alimentaire principalement à base de plantes, qui est liée à une réduction du risque de maladie cardiaque, de diabète et d'autres problèmes de santé, dit Kylene Bogden, diététiste professionnelle au Cleveland Clinic . \"La bonne chose à propos de cette population est qu'ils mangent bio et locaux,\" dit-elle. \"Leur régime alimentaire ne contient généralement pas beaucoup de conservateurs ou les aliments transformés, ce qui est une excellente façon de manger.\""
       blog_plant: "Un régime alimentaire à base de plantes seul peut aider à contrer d'autres habitudes malsaines - comme la consommation de bière, dit David Leal, une nutritionniste à la Texas A & amp; M Health Science Center. \"Fruits et légumes sont merveilleux pour nous,\" dit-il. \"Beaucoup de gens luttent avec obtenir ces dans notre alimentation régulièrement. Manger plusieurs portions par jour, même si elles ne sont pas organiques, peut nous aider à équilibrer les autres aspects les plus pauvres de notre alimentation.\""
       blog_active: "De plus, les hipsters sont physiquement actifs, évitant souvent une voiture pour un vélo, dit Bogden. «Les gens ne se rendent pas compte qu'ils marchent et vélo partout,\" dit-elle. \"Il ya un déficit plus de calories quand vous êtes une gestion active, ce est pourquoi ils peuvent sortir de manger plus souvent et ne pas prendre du poids.\""
-    posts:
-      new_post: "Nouveau poste"
+    

@@ -6,6 +6,16 @@ en:
       static_blog_link: "Static Blog"
       dynamic_blog_link: "Dynamic Blog"
       language_options: "View this page in:"
+  posts:
+    new:
+      title: Title
+      page_title: "New post"
+      img_url: "Img url"
+      author: "Author"
+      body: "body"
+      create_btn: "Create Post"
+      back: "Back"
+
   static_pages:
     home:
       home_intro: "The benefits of eating right"
@@ -28,5 +38,6 @@ en:
       blog_conscious: "Hipsters tend to be conscious about what they put in their bodies and often eat a primarily plant-based diet, which is linked to a reduction in risk for heart disease, diabetes and other health problems, says Kylene Bogden, a registered dietitian with Cleveland Clinic.\"The nice thing about this population is that they eat organic and local,\" she says. \"Their diet usually doesn’t contain many preservatives or processed foods, which is a great way to eat.\""
       blog_plant: "The plant-based diet alone can help counteract other unhealthy habits – like beer consumption, says David Leal​, a nutritionist with the Texas A&amp;M Health Science Center​. \"Fruits and vegetables are wonderful for us,\" he says. \"A lot of people struggle with getting these into our diet regularly. Eating several helpings per day, even if they’re not organic, can help us balance out the other poorer aspects of our diet.\""
       blog_active: "Plus, hipsters are physically active, often eschewing a car for a bike, Bogden says. \"People don’t realize that they walk and bike everywhere,\" she says. \"There’s a greater calorie deficit when you’re that active, which is why they can go out to eat more often and not gain weight.\""
-    posts:
+  posts:
+    index:
       new_post: "New post"
