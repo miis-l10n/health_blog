@@ -35,9 +35,9 @@ en:
     index:
       new_post_link: "@New Post"
     new:
-      post_header: "@New Post"
-      new_title: "@Title"
-      new_img: "@Img url"
+      post_page: "@New Post"
+      post_title: "@Title"
+      new_img: "@Img URL"
       new_author: "@Author"
       new_body: "@Body"
       new_create: "@Create Post"

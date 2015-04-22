@@ -83,27 +83,20 @@ a {
 }
 
 label {
-	width: 60px;
 	display: inline-block;
 }
 
 input {
 	width: 200px;
-	border-radius: 3px;
+	border-radius: 5px;
 	border-style: none;
 	border: 1px solid #999;
+	height: 20px;
 }
 
 textarea {
 	min-width: 350px;
 	min-height: 200px;
-}
-
-input[type="submit"] {
-	width: 90px;
-	/*border-style: none;
-	background-color: #009900;
-	border-radius: 5px;*/
 }
 
 figure {
@@ -132,3 +125,14 @@ footer ul {
 	margin-left: 0;
 	padding-left: 0;
 }
+
+td { vertical-align: top;
+	/* border-bottom: 10px;*/
+}
+
+/*table {
+	border: 1px solid black;
+}
+td {
+	border: 1px solid black;
+}*/
