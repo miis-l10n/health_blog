@@ -6,6 +6,7 @@ en:
       static_blog_link: "Static Blog"
       dynamic_blog_link: "Dynamic Blog"
       language_options: "View this page in:"
+ 
   static_pages:
     home:
       home_intro: "The benefits of eating right"
@@ -32,5 +33,13 @@ en:
       blog_credits: "By Amir Khan"
       blog_time: "Oct. 20, 2014 | 12:04 p.m. EDT"
   posts:
+    new:
+      title: "Title"
+      img_url: "Img url"
+      page_title: "New Post"
+      author: "Author"
+      body: "Body"
+      create_post: "Create Post"
+      back: "Back"
     index:
       index_newpost: "New Post"
