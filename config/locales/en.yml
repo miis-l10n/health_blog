@@ -34,3 +34,15 @@ en:
   posts:
     index:
       new_post_link: "New post"
+    new: 
+      title: "Title"
+      page_title: "New Post"
+      img_url: "Img url"
+      author: "Author"
+      post_body: "Body"
+      button_create: "Create Post"
+      button_back: "Back"
+    show: 
+      button_backtoposts: "Back to Posts"
+
+
