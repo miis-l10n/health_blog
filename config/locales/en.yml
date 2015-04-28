@@ -32,5 +32,11 @@ en:
       blog_p5: "The plant-based diet alone can help counteract other unhealthy habits – like beer consumption, says David Leal​, a nutritionist with the Texas A&amp;M Health Science Center​. \"Fruits and vegetables are wonderful for us,\" he says. \"A lot of people struggle with getting these into our diet regularly. Eating several helpings per day, even if they’re not organic, can help us balance out the other poorer aspects of our diet.\""
       blog_p6: "Plus, hipsters are physically active, often eschewing a car for a bike, Bogden says. \"People don’t realize that they walk and bike everywhere,\" she says. \"There’s a greater calorie deficit when you’re that active, which is why they can go out to eat more often and not gain weight.\""
   posts:
-    index:
-      posts_new: "New post"
+    new:
+      title: "Title"
+      page_title: "New Post"
+      image: "Img url"
+      author: "Author"
+      body: "Body"
+      back: "Back"
+      create_button: "Create Post"
