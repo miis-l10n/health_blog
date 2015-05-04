@@ -1,7 +1,7 @@
 zh_TW:
   layouts:
     application:
-      home_link: "家"
+      home_link: "首頁"
       about_link: "大約"
       static_blog_link: "靜態博客"
       dynamic_blog_link: "動態博客"
@@ -18,20 +18,24 @@ zh_TW:
       back_btn: "背部"
     index:
       new_post_btn: "新郵"
+      no_post_btn: "現在還沒有博客。您可以新建一個，並在此處查看."
+    show:
+      back_to_posts: "返回頁面"
   static_pages:
     home:
-      home_intro: "正確的飲食的好處"
-      home_intro_2: "這是一個\"博客\"致力於健康飲食"
-      home_intro_3: "點擊東西在頁面上"
+      home_intro: "正確飲食的好處"
+      home_intro_2: "這是一個致力於健康飲食的“部落格”"
+      home_intro_3: "在頁面上點擊"
     about:
       about_page_header: "這是關於頁面"
       about_page_desc: "它告訴什麼應用程序呢，誰是背後的人，為什麼它的真棒，等等。"
       about_page_details: "現在的一些細節典型的“關於我們”頁面"
       contact_us: "聯繫我們"
-      gallery: "畫廊"
+      gallery: "圖庫"
       sign_up: "報名"
     blog:
       title: "在行家的虛偽飲食"
+      time: "2014年10月20日 東部夏令時 12:04"
       sub_title: "臘肉的戰鬥與湯菜。"
       caption: "時尚人士都知道吃本地和有機的，但他們也往往沉迷於熏肉和精釀啤酒。"
       author: "由阿米爾汗"
@@ -44,7 +48,7 @@ zh_TW:
       japan: "日本"
       brazil: "巴西"
       us_fact_1: "沒有驚喜。美國需要工作在醫療保健"
-      us_fact_2: "美國排名第46出48個國家的衛生保健效率，僅次於利比亞，馬來西亞，古巴，沙特阿拉伯，希臘，羅馬尼亞和伊朗。香港高居榜首"
+      us_fact_2: "美國排名第46出48個國家的衛生保健效率，落後於利比亞，馬來西亞，古巴，沙特阿拉伯，希臘，羅馬尼亞和伊朗。香港高居榜首"
       us_fact_3: "美國去年排名在世界帶薪休假。在這個國家，也不能保證任何帶薪休假任何責任。奧地利和葡萄牙為首的名單，35天付過，每年每個工人"
       us_fact_4: "美國是（幾乎是）最胖的國家在世界上。彭博社擁有美國一流的列表中，但最近的數據顯示，墨西哥現持有稱號"
       uk_fact_1: "英國是不是超級不健康的"

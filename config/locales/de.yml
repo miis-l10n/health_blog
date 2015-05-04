@@ -18,6 +18,9 @@ de:
       back_btn: "Zurück"
     index:
       new_post_btn: "New Post"
+      no_post_btn: "Es gibt noch keine Beiträge. Sie sich hier und sehen Sie es hier."
+    show:
+      back_to_posts: "Zurück zur Startseite"
   static_pages:
     home:
       home_intro: "Die Vorteile der richtige Ernährung"

@@ -18,6 +18,9 @@ es:
       back_btn: "Espalda"
     index:
       new_post_btn: "Nueva Entrada"
+      no_post_btn: "No hay artículos todavía. Puede crear uno y ver aquí."
+    show:
+      back_to_posts: "Volver a La Página"
   static_pages:
     home:
       home_intro: "Los beneficios de comer bien"

@@ -18,7 +18,9 @@ en:
       back_btn: "Back"
     index:
       new_post_btn: "New Post"
-
+      no_post_btn: "There are no posts yet. You can create one and view it here."
+    show:
+      back_to_posts: "Back to Posts"
   static_pages:
     home:
       home_intro: "The benefits of eating right"

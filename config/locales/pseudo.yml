@@ -18,6 +18,7 @@ pseudo:
       back_btn: "[Ɓȧƈķ ϵΰǋΰϑϱ]"
     index:
       new_post_btn: "[Ƞḗẇ Ƥǿşŧ ϐϱıǋ 鶱ǋ鶱ϕǋ]"
+      no_post_btn: "There are no posts yet. You can create one and view it here."
   static_pages:
     home:
       home_intro: "[Ŧħḗ ƀḗƞḗƒīŧş ǿƒ ḗȧŧīƞɠ řīɠħŧ ǈΐςſ ΰΐΰǅſ]"

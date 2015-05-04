@@ -18,6 +18,9 @@ fr:
       back_btn: "Arrière"
     index:
       new_post_btn: "Nouveau Poste"
+      no_post_btn: "Il n'y a pas encore de commentaires. Vous pouvez en créer un et consulter ici."
+    show:
+      back_to_posts: "Retour à la page"
   static_pages:
     home:
       home_intro: "Les avantages de manger à droite"
