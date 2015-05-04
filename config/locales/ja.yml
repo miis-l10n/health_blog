@@ -18,6 +18,9 @@ ja:
       back_btn: "バック"
     index:
       new_post_btn: "新しいポスト"
+      no_post_btn: "まだコメントはありません。あなたが作成し、ここで見ることができます。"
+    show:
+      back_to_posts: "バックページへ"
   static_pages:
     home:
       home_intro: "右食べることのメリット"

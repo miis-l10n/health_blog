@@ -18,6 +18,9 @@ ko:
       back_btn: "백"
     index:
       new_post_btn: "새 게시물"
+      no_post_btn: "아직 코멘트가 없습니다 . 작성하고 여기에 볼 수 있습니다."
+    show:
+      back_to_posts: "다시 페이지로"
   static_pages:
     home:
       home_intro: "권리를 먹는 혜택"
