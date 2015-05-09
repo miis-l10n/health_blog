@@ -18,6 +18,7 @@ en:
       back_btn: "Back"
     index:
       new_post_btn: "New Post"
+      no_posts: "There are no posts yet. You can create one and view it here."
 
   static_pages:
     home:

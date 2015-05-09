@@ -1,6 +1,3 @@
-#header{
-	height: 113px;
-}
 
 #header ul {
 	list-style: none;
@@ -27,7 +24,6 @@
 #content {
 	border: 1px solid #E7E7E7;
 	clear: both;
-	margin-top: 16px;
 }
 
 #content div {

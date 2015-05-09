@@ -1,8 +1,8 @@
 zh_CN:
   layouts:
     application:
-      home_link: "家"
-      about_link: "大约"
+      home_link: "主页"
+      about_link: "关于"
       static_blog_link: "静态博客"
       dynamic_blog_link: "动态博客"
       language_options: "查看此页面："
@@ -15,9 +15,10 @@ zh_CN:
       author: "笔者"
       body: "体"
       create_btn: "创建帖子"
-      back_btn: "背部"
+      back_btn: "返回"
     index:
       new_post_btn: "新邮"
+      no_posts: "现在还没有博客文章。您可以创建并在此查看。"
   static_pages:
     home:
       home_intro: "正确的饮食的好处"
@@ -25,11 +26,11 @@ zh_CN:
       home_intro_3: "点击东西在页面上"
     about:
       about_page_header: "这是关于页面"
-      about_page_desc: "它告诉什么应用程序呢，谁是背后的人，为什么它的真棒，等等。"
+      about_page_desc: "它告诉什么应用程序呢，负责人是谁，为什么它的真棒，等等。"
       about_page_details: "现在的一些细节典型的“关于我们”页面"
       contact_us: "联系我们"
-      gallery: "画廊"
-      sign_up: "报名"
+      gallery: "相册"
+      sign_up: "注册"
     blog:
       title: "在行家的虚伪饮食"
       sub_title: "腊肉的战斗与汤菜。"
@@ -39,7 +40,7 @@ zh_CN:
     stats:
       stats_title: "以下是按国​​家一些有趣的与健康相关的事实"
       usa: "美国"
-      uk: "联合王国"
+      uk: "英国"
       china: "中国"
       japan: "日本"
       brazil: "巴西"
@@ -50,7 +51,7 @@ zh_CN:
       uk_fact_1: "英国是不是超级不健康的"
       uk_fact_2: "英国雇主没有花费任何金钱上的福利措施。"
       uk_fact_3: "我们花更多的时间在网上比我们都睡着了。"
-      uk_fact_4: "拉sicky？它的成本英国雇主290亿英镑每年。"
+      uk_fact_4: "请病假？它的成本英国雇主290亿英镑每年。"
       uk_fact_5: "1/4的人在英国将在他们的生活中体验到的心理健康问题。"
       uk_fact_6: "成年人在英国的高达四分之一是肥胖。"
       china_fact_1: "中国正投资于医疗保健，但吸烟依然盛行"
