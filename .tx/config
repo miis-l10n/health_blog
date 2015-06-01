@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[demo-14.health-blog]
+file_filter = config/locales/<lang>.yml
+source_file = config/locales/en.yml
+source_lang = en
+type = YAML
+
